@@ -1,3 +1,5 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+👋;I'm+Vincent;CTF+Player+%7C+System+Breaker;Currently+Learning+Reverse+Engineering&center=true&size=30">
-</h1>
+<div align="center">
+  <h1>👋 Hey, I'm Vincent!</h1>
+  <h3>🚩 CTF Player • 💻 System Breaker • 🔍 Security Enthusiast</h3>
+  <p><i>"Breaking systems to understand them"</i></p>
+</div>
