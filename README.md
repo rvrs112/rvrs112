@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=false&vCenter=false&width=435&lines=%24+whoami;Vincent+—+a+CTF+Player&repeat=false)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=00FF00&center=false&vCenter=false&width=500&lines=┌──(vincent㉿spl1t4t3rminal)-[~/];└─$+whoami;Vincent+—+a+CTF+Player&repeat=false)](https://git.io/typing-svg)
