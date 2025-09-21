@@ -1,4 +1,4 @@
-```bash
-┌──(vincent㉿spl1t4t3rminal)-[~/]
-└─$ whoami
-Vincent — a CTF Player
+```md
+```ansi
+[1;32m┌──(vincent㉿spl1t4t3rminal)-[~/]
+[1;32m└─$[0m whoami
