@@ -10,7 +10,7 @@ Every challenge is a new adventure in understanding how systems work
 | Category | Level | Favorite Tools |
 |----------|-------|----------------|
 | Web      | ⭐⭐⭐ | Burp Suite, SQLMap, Custom Scripts |
-| Reverse  | ⭐⭐⭐ | Ghidra, IDA Pro, GDB |
+| Reverse  | ⭐⭐⭐ | Ghidra, GDB |
 | Pwn      | ⭐⭐   | pwntools, GDB, radare2 |
 | Forensics| ⭐⭐   | Autopsy, Volatility, Wireshark |
 | Crypto   | ⭐     | Python, SageMath, basic tools |
