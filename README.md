@@ -1,6 +1,6 @@
-# Hey! 👋 I'm Vincent
+# Hi there! 👋 I'm Vincent
 
-Started my CTF journey on July 19th, 2025 - and I've been hooked ever since!  
-Just someone who loves solving puzzles and learning how systems work 🧩
+CTF enthusiast since July 2025 - still early in my journey but loving every puzzle! 🧩  
+Currently focusing on reverse engineering and binary exploitation
 
-*Still a beginner, but passionate about cybersecurity* ✨
+*Learning something new with each flag captured* 🚩
